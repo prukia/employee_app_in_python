@@ -47,7 +47,7 @@ print(emp_2)
 # emp_2.email = 'test.user@company.com'
 
 print(emp_1.email)
-print(emp_2.email)
+print(emp_2.pay)
 
 # non-dynamic way
 print ('{} {}'.format(emp_1.first, emp_1.last))
