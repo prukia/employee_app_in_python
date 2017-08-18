@@ -18,8 +18,8 @@
       <file leaf-file-name="string_formatting.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../strings/string_formatting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-319">
-              <caret line="96" column="6" lean-forward="true" selection-start-line="96" selection-start-column="6" selection-end-line="97" selection-end-column="0" />
+            <state relative-caret-position="1785">
+              <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -348,8 +348,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../strings/string_formatting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <caret line="96" column="6" lean-forward="true" selection-start-line="96" selection-start-column="6" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="1785">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
           <folding />
         </state>
       </provider>
